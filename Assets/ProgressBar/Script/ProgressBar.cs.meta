@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 149d864443ddca94ba93b092e7acd5ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TitleFont: {instanceID: 0}
+  - BarBackGroundSprite: {instanceID: 0}
+  - sound: {fileID: 8300000, guid: 349a5d092ededeb43a683783cb5ea234, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
